@@ -1,4 +1,5 @@
 # trello-reto-pasado
+
 'VERSIÓN 0.0.1'
 
 Se mostrará el texto "Añadir una lista ...".
